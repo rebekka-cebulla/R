@@ -1,0 +1,7 @@
+"colors" "amounts"
+"1" "white" 33
+"2" "black" 20
+"3" "red" 18
+"4" "green" 29
+"5" "blue" 34
+"6" "yellow" 29
